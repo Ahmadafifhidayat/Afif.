@@ -1,2 +1,1 @@
-# Afif.
-Tugas P21
+
